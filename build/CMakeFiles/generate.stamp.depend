@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake
+D:/Programs/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+D:/githubrep/ADS/CMakeLists.txt
+D:/githubrep/ADS/build/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake
+D:/githubrep/ADS/build/CMakeFiles/3.25.2/CMakeRCCompiler.cmake
+D:/githubrep/ADS/build/CMakeFiles/3.25.2/CMakeSystem.cmake
